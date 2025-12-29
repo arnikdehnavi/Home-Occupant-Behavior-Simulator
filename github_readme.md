@@ -442,18 +442,3 @@ git push origin feature/amazing-feature
 - [ ] **API Server** - RESTful API for remote simulation control
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **Stanford HCI Group** - Generative Agents research
-- **OpenAI** - GPT models for agent decision-making inspiration
-- **Gymnasium** - RL environment standards
-- **React Community** - UI framework and components
-
----
