@@ -412,18 +412,10 @@ If you use this simulator in your research, please cite:
 
 ```bibtex
 @software{home_occupancy_simulator,
-  author = {Your Name},
+  author = {Arman Nikkhah Dehnavi},
   title = {Home Occupancy Simulator: A Platform for Residential Behavior Modeling},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/home-occupancy-simulator}
+  url = {https://github.com/arnikdehnavi/home-occupancy-simulator}
 }
 ```
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/home-occupancy-simulator&type=Date)](https://star-history.com/#yourusername/home-occupancy-simulator&Date)
-
----
-
-**Built with ❤️ for the smart home and RL research community**
